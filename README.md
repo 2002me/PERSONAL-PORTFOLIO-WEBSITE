@@ -1,11 +1,11 @@
 # PERSONAL-PORTFOLIO-WEBSITE
-** COMPANY **: CODTECH IT SOLUTIONS
-** NAME **: MEGHANA G
-** INTERN ID **: CT08DS304
-** DOMAIN **: FRONTEND WEB DEVELOPMENT
-** BATCH DURATION **: DECEMBER 5th, 2024 to JANUARY 5th, 2025
-** MENTOR NAME **: NEELA SANTHOSH
-** DESCRIPTION **:A personal portfolio website is a digital space to showcase my skills, experience, and personality while leaving a lasting impression on visitors. This guide outlines how to create a sleek, effective portfolio using minimal resources and essential elements for a streamlined user experience.
+**COMPANY**: CODTECH IT SOLUTIONS
+**NAME**: MEGHANA G
+**INTERN ID**: CT08DS304
+**DOMAIN**: FRONTEND WEB DEVELOPMENT
+**BATCH DURATION**: DECEMBER 5th, 2024 to JANUARY 5th, 2025
+**MENTOR NAME**: NEELA SANTHOSH
+**DESCRIPTION**:A personal portfolio website is a digital space to showcase my skills, experience, and personality while leaving a lasting impression on visitors. This guide outlines how to create a sleek, effective portfolio using minimal resources and essential elements for a streamlined user experience.
 
 Key Elements:
 Home Section
