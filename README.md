@@ -39,6 +39,9 @@ Frameworks: Leverage lightweight frameworks like Bootstrap or Tailwind CSS.
 Images: Use free stock images from platforms like Unsplash and compress them for faster loading.
 Code: Keep it simple with HTML5, CSS3, and minimal JavaScript to avoid heavy dependencies.
 
+**OUTPUT OF THE TASK
+![image](https://github.com/user-attachments/assets/60d9a7b2-9378-4ff3-b63b-f7d95743ab39)
+
 
 
 
